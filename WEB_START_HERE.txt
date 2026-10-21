@@ -1,0 +1,13 @@
+HEMOLINK WEB — QUICK START ON MAC
+
+OPTION 1 (recommended):
+1. Extract this ZIP.
+2. Open Terminal and cd into the extracted HemoLink-main folder.
+3. Run: python3 start_server.py
+4. Open http://localhost:2020 in Chrome.
+5. Keep Terminal open while using the site. Press Ctrl+C to stop.
+
+OPTION 2 (no Python server):
+Double-click index.html to open the dashboard in a browser.
+
+This is a local web dashboard. The built-in optimization engine runs in the browser; it does not require pip install.
